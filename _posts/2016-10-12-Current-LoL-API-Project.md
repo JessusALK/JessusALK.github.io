@@ -8,9 +8,9 @@ tags: lol
 
 permalink: /apiproject/
 ---
-##I am currently working on a project that involves the Riot API.
+I am currently working on a project that involves the Riot API.
 
--It manages information from the API and tracks stats for a player's performance on certain champions. 
+-It manages information from the API and tracks stats for a player's performance on certain champions.
 
 -It is being written in Java and uses a wrapper called Orianna.
 
